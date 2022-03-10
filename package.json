@@ -1,0 +1,19 @@
+{
+  "name": "umi-tabs-demo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "rm -rf ./src/.umi && umi dev"
+  },
+  "dependencies": {
+    "@ant-design/icons": "4.2.1",
+    "@ant-design/pro-layout": "6.2.0",
+    "@umijs/preset-react": "1.5.17",
+    "lodash": "^4.17.21",
+    "react": "^17.0.2",
+    "react-activation": "^0.9.11",
+    "umi": "^3.5.21",
+    "umi-plugin-keep-alive": "^0.0.1-beta.30"
+  },
+  "keywords": []
+}
